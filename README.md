@@ -31,7 +31,6 @@ npm run seed:db [email-***@****.com] [password-******] // This is just an exampl
 
 ## Demo
 
-T
 ## Install
 
 Some basic Git commands are:
